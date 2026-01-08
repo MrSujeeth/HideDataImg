@@ -21,7 +21,7 @@ Cryptic Canvas uses LSB Image Steganography, where message bits are hidden in th
 
 🔐 Uses stegano library for secure LSB encoding
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 **Python**
 
