@@ -86,6 +86,4 @@ Button(frame4,text="Hide Data",width=10,height=2,font="arial 14 bold",command=Hi
 Button(frame4,text="Show Data",width=10,height=2,font="arial 14 bold",command=Show).place(x=180,y=30)
 Label(frame4,text="Picture, Image, Photo File",bg="#2f4155",fg="yellow").place(x=20,y=5)
 
-
-
 root.mainloop()
