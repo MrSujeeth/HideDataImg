@@ -7,7 +7,7 @@ The tool provides a simple and user-friendly interface built with Tkinter.
 Steganography is the technique of hiding information inside digital media such as images, audio, or video files in a way that is invisible to the human eye.
 Cryptic Canvas uses LSB Image Steganography, where message bits are hidden in the least significant bits of image pixels.
 
-**✨ Features**
+✨ Features
 
 📂 Select images from your system
 
